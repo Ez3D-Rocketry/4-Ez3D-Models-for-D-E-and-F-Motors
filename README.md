@@ -16,6 +16,8 @@ some of the differences between then and the smaller ones.
    
 ![IMG_8638](https://github.com/user-attachments/assets/ba869756-543f-473b-8c91-df4317829622)
 ![IMG_8639](https://github.com/user-attachments/assets/459659d7-96b4-4eed-ac7e-f589ad4d8095)
+![IMG_8640](https://github.com/user-attachments/assets/90c181e5-e36b-4a5a-86e6-69baef391c2d)
+
 
 ![IMG_8642](https://github.com/user-attachments/assets/a2a1f8f6-f53e-4718-94ec-bd4788259b8f)
 
