@@ -2,50 +2,27 @@
 
 ## The three models in this repository fly with the larger Estes motors. 
 
-# Parts List:
-1. Ez3D Fin Can based on the model desired 
-2. Ez3D Nose Cone based on the model desired 
-3. Ez3D Motor Retention Cap  24mm or 29mm
-   - Print out the multiple sizes
-   - Accounts for different printing tolerances and post flight shrinking
-4. Ez3D Tube based launch rail guide or other launch pad support
-   - rail guide
-   - launch lug..
-6. Eighteen (18) inches of body tube (this is usually the length they come in.
-7. Four (4) feet of Kevlar string for Recovery Harness
-   - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
-8. Parachute - 15 inch works fine
-9. xxx inches of motor mounttype body tube (Optional)
-    - This tube serves as an Insulator between the motor and Fin Can
-    - Use of Insulator helps reduce Fin Can heat shrink after each launch
-  
+Instead of writing detailed instruction for these models, I will just highlight 
+some of the differences between then and the smaller ones. 
 
 # Assembly: 
 
 **NOTE: Individual printers and filiment have different tolerances** <br />
 **- Fit check items before assembly and sand to fit if requried**
      
-1. Tie Recovery Harness to hole in Fin Can
-2. Thread Recovery Harness thru Body Tube
-3. Slide Body Tube onto top of Fin Can
-4. Tape Body Tube to Fin Can - avoid blocking integrated launch lug
-5. Attach launch lugs or rails guide system
-6. Tie loose end of Recovery Harness to Nose Cone
-7. Tie streamer to Recovery Hanress near top of Nose Cone
+1. I use plastic rivets instead of tape to secure the Body Tube to the Fin Can
+ - Also consider wrapping tape around the joint for a better seal (for ejection charge force)
+2. Since these are heavier models, I use large launch lugs and rail buttons.
+   
+![IMG_8638](https://github.com/user-attachments/assets/ba869756-543f-473b-8c91-df4317829622)
+![IMG_8639](https://github.com/user-attachments/assets/459659d7-96b4-4eed-ac7e-f589ad4d8095)
+
+![IMG_8642](https://github.com/user-attachments/assets/a2a1f8f6-f53e-4718-94ec-bd4788259b8f)
+
 
 
 # Launch Preperation:
-1. Insert 1 or 2 squares of recovery wadding into Body Tube
-2. Load Recovery Harness and Streamer into Body Tube
-3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
-4. Slide motor insulator tube into Fin Can before motor (Optional)
-5. Load motor into Fin Can
-    - Motor will fit loosely if insulator is not used
-    - Loose fit is not an issue with proper motor retention
-7. Screw Motor Retention Cap onto base of Fin Can
-   - Depending on your printer, the larger sizes may fit better
-   - After a flight or two, the smaller size may fit better
-9. Launch using standard model rocket procedures
+1. Just like the others. 
 
 # Recommended motors and expected performance: 
 
