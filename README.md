@@ -31,15 +31,15 @@ Plastics in direct contact with high heat don't last very long. These models are
 
 Ez3D Max
 
-C11-3         = 300 ft  (Optimum delay = 3.5 s)???
+C11-3         = 300 ft  (Optimum delay = 3.5 s)
 
-D12-5         = 700 ft (Optimum delay = 5 s)???
+D12-5         = 700 ft (Optimum delay = 5 s)
 
 Ez3D Max+
 
-C11-3         = 300? ft  (Optimum delay = 3.5 s)???
+C11-3         = 300? ft  (Optimum delay = 3.5 s)
 
-D12-5         = 700 ft (Optimum delay = 5 s) ???
+D12-5         = 700 ft (Optimum delay = 5 s) 
 
  -C11 and D12 require use of motor spacer
 
@@ -47,9 +47,9 @@ E12-6         = 1000 ft (Optimum delay = 5 s) ???
 
 Ez3D Super Max
 
-E16-6         = 950 ft  (Optimum delay = 5.5 s) ???
+E16-6         = 950 ft  (Optimum delay = 5.5 s) 
 
-F15-6         = 1300 ft (Optimum delay = 5.8 s) ???
+F15-6         = 1300 ft (Optimum delay = 5.8 s) 
 
 
 # IMPORTANT POST FLIGHT NOTES:
