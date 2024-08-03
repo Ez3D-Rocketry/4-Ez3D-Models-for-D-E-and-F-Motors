@@ -3,7 +3,7 @@
 ## The three models in this repository fly with the larger Estes motors. 
 
 Instead of writing detailed instruction for these models, I will just highlight 
-some of the differences between then and the smaller ones. 
+some of the differences between them and the smaller versions. 
 
 # Assembly: 
 
@@ -18,6 +18,7 @@ some of the differences between then and the smaller ones.
 ![IMG_8639](https://github.com/user-attachments/assets/459659d7-96b4-4eed-ac7e-f589ad4d8095)
 ![IMG_8640](https://github.com/user-attachments/assets/90c181e5-e36b-4a5a-86e6-69baef391c2d)
 
+Plastics in direct contact with high heat don't last very long. These models are not designed for longevity.
 
 ![IMG_8642](https://github.com/user-attachments/assets/a2a1f8f6-f53e-4718-94ec-bd4788259b8f)
 
