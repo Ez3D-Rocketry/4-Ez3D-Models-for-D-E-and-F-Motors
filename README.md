@@ -10,9 +10,8 @@ some of the differences between them and the smaller versions.
 **NOTE: Individual printers and filiment have different tolerances** <br />
 **- Fit check items before assembly and sand to fit if requried**
      
-1. I use plastic rivets instead of tape to secure the Body Tube to the Fin Can
- - Also consider wrapping tape around the joint for a better seal (for ejection charge force)
-2. Since these are heavier models, I use large launch lugs and rail buttons.
+1. Plastic rivets or tape can secure the Body Tube to the Fin Can
+2. Since these are heavier models, I use large launch lugs or rail buttons.
    
 ![IMG_8638](https://github.com/user-attachments/assets/ba869756-543f-473b-8c91-df4317829622)
 ![IMG_8639](https://github.com/user-attachments/assets/459659d7-96b4-4eed-ac7e-f589ad4d8095)
